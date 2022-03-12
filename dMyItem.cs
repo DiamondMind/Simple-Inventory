@@ -9,7 +9,6 @@ public class dMyItem
     public string description;
     public bool isStackable;
     public Sprite icon;
-    // Constructor 
     public dMyItem()
     {
 
